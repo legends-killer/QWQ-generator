@@ -1,5 +1,7 @@
 # QWQ-generator
 to generate anime avatars.
+- to know more on my blog:
+www.legends-killer.cq.cn
 - 目录结构：
 ![image.png](https://i.loli.net/2019/12/30/nM2ipR8PczuAQqE.png)
 应该还有一个imgs文件夹，和data在同一级
